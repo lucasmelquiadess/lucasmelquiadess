@@ -7,10 +7,14 @@ I'm a passionate student and IT Intern, full-stack developer, currently focusing
 - 🎓 Pursuing a Bachelor's degree in **Computer Science** & Associate degree in **Computer Systems**
 - 📊 Already pursuing a Post-Graduate degree in **Strategic IT Management**
 - 💼 Working at the moment as an IT Intern at Atos, developing and sustaining corporate solutions with Microsoft Dynamics 365, C#/.NET, JavaScript, and SQL Server.
-- 🌱 Currently studying Linear Algebra and deepening my knowledge in **Backend Development (Java & Spring Boot)**, **System Design**, **AWS**, **AI (Artificial Intelligence)** and **Cybersecurity**.
+- 🌱 Currently studying Linear Algebra and deepening my knowledge in **Backend Development (Java & Spring Boot)**, **System Design**, **AWS**, **DevOps**, **AI (Artificial Intelligence)** and **Cybersecurity**.
 - 🤝 Always open to collaborating on open-source projects and innovative tech solutions.
 - 🌎 Languages: Portuguese 🇧🇷 (Native), English 🇺🇸 (Advanced), and Spanish 🇦🇷 (Fluent).
 - ☁️ **AWS Certified Cloud Practitioner**
+
+<a href="(link do comprovante)" target="_blank">
+  <img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
+</a>
 
 ---
 
