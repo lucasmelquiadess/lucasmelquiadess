@@ -2,7 +2,7 @@
 
 ### 👨🏾‍💻 About Me
 
-I'm a passionate student and IT Intern, full-stack developer, currently focusing on backend development, enterprise solutions, and cloud technologies. Coming from a background in law and data analytics, I bring a strong analytical mindset, attention to detail, and problem-solving skills to software engineering.
+I'm a passionate student and IT Intern, full-stack developer, currently focusing on enterprise solutions development and cloud technologies. Coming from a background in law and data analytics, I bring a strong analytical mindset, attention to detail, and problem-solving skills to software engineering.
 
 - 🎓 Pursuing a Bachelor's degree in **Computer Science** & Associate degree in **Computer Systems**
 - 📊 Already pursuing a Post-Graduate degree in **Strategic IT Management**
