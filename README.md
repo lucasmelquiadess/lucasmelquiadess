@@ -60,7 +60,7 @@ I'm a passionate student and IT Intern, full-stack developer, currently focusing
     
   </a>
   
-  <a href="SEU_LINK_DO_DISCORD_AQUI" target="_blank">
+  <a href="https://discord.com/users/lucasmelquiades." target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 
 </a>
