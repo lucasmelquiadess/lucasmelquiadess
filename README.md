@@ -2,15 +2,15 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Computer Science student** and **IT Intern at Atos**, currently focusing on backend development, enterprise solutions, and cloud technologies. Coming from a background in Law and data analytics (Power BI), I bring a strong analytical mindset, attention to detail, and problem-solving skills to software engineering.
+I'm a passionate student and IT Intern, full-stack developer, currently focusing on backend development, enterprise solutions, and cloud technologies. Coming from a background in law and data analytics, I bring a strong analytical mindset, attention to detail, and problem-solving skills to software engineering.
 
-- 🎓 Studying **Computer Science** (IBMR) & **Computer Systems** (UFF)
-- 📊 Pursuing a Post-Graduate degree in **Strategic IT Management** (UNESA)
-- 💼 Working as an IT Intern at **Atos**, developing and sustaining corporate solutions with Microsoft Dynamics 365, C#/.NET, JavaScript, and SQL Server.
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🌱 Currently deepening my knowledge in **Backend Development (Java & Spring Boot)**, **System Design**, and **Cybersecurity**.
+- 🎓 Pursuing a Bachelor's degree in **Computer Science** & Associate degree in **Computer Systems**
+- 📊 Already pursuing a Post-Graduate degree in **Strategic IT Management**
+- 💼 Working at the moment as an IT Intern at Atos, developing and sustaining corporate solutions with Microsoft Dynamics 365, C#/.NET, JavaScript, and SQL Server.
+- 🌱 Currently studying Linear Algebra and deepening my knowledge in **Backend Development (Java & Spring Boot)**, **System Design**, **AWS**, **AI (Artificial Intelligence)** and **Cybersecurity**.
 - 🤝 Always open to collaborating on open-source projects and innovative tech solutions.
-- 🌎 Languages: Portuguese (Native), English (Advanced), and Spanish (Fluent).
+- 🌎 Languages: Portuguese 🇧🇷 (Native), English 🇺🇸 (Advanced), and Spanish 🇦🇷 (Fluent).
+- ☁️ **AWS Certified Cloud Practitioner**
 
 ---
 
@@ -57,5 +57,4 @@ I am a passionate **Computer Science student** and **IT Intern at Atos**, curren
 
 <br/>
 
-*“Optimizing systems, automating processes, and building scalable solutions.”*
 *“Optimizing systems, automating processes, and building scalable solutions.”*
