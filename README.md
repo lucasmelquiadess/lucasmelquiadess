@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas Melquiades 👋
 
-### 👨‍💻 About Me
+### 👨🏾‍💻 About Me
 
 I'm a passionate student and IT Intern, full-stack developer, currently focusing on backend development, enterprise solutions, and cloud technologies. Coming from a background in law and data analytics, I bring a strong analytical mindset, attention to detail, and problem-solving skills to software engineering.
 
@@ -37,8 +37,8 @@ I'm a passionate student and IT Intern, full-stack developer, currently focusing
 **Tools:** 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1C1C1C?style=for-the-badge)
 ![API](https://img.shields.io/badge/API-005571?style=for-the-badge)
 ![UI](https://img.shields.io/badge/UI-FF007F?style=for-the-badge)
