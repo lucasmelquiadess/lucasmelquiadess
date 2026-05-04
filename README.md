@@ -7,9 +7,10 @@ I'm a passionate student and IT Intern, full-stack developer, currently focusing
 - 🎓 Pursuing a Bachelor's degree in **Computer Science** & Associate degree in **Computer Systems**
 - 📊 Already pursuing a Post-Graduate degree in **Strategic IT Management**
 - 💼 Working at the moment as an IT Intern at Atos, developing and sustaining corporate solutions with Microsoft Dynamics 365, C#/.NET, JavaScript, and SQL Server.
-- 🌱 Currently studying Linear Algebra and deepening my knowledge in **Backend Development (Java & Spring Boot)**, **System Design**, **AWS**, **DevOps**, **AI (Artificial Intelligence)** and **Cybersecurity**.
+- 🎯 Currently studying Linear Algebra and deepening my knowledge in **Backend Development (Java & Spring Boot)**, **System Design**, **AWS**, **DevOps**, **AI (Artificial Intelligence)** and **Cybersecurity**.
 - 🤝 Always open to collaborating on open-source projects and innovative tech solutions.
 - 🌎 Languages: Portuguese 🇧🇷 (Native), English 🇺🇸 (Advanced), and Spanish 🇦🇷 (Fluent).
+- 🎲 Fun fact: ...
 - ☁️ **AWS Certified Cloud Practitioner**
 
 <a href="(link do comprovante)" target="_blank">
@@ -61,7 +62,7 @@ I'm a passionate student and IT Intern, full-stack developer, currently focusing
 
 <br/>
 
-*“Optimizing systems, automating processes, and building scalable solutions.”*
+✨ *“Optimizing systems, automating processes, and building scalable solutions.”* ✨
 
 ###
 
@@ -150,7 +151,6 @@ I'm a passionate student and IT Intern, full-stack developer, currently focusing
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
 ###
