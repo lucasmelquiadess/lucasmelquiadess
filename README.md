@@ -58,9 +58,9 @@ I'm a passionate student and IT Intern, full-stack developer, currently focusing
   <a href="https://www.linkedin.com/in/lucasmelquiades" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://discord.com/users/lucasmelquiades." width="52" height="40" alt="discord logo"  />
-</div>
-
+  <a href="SEU_LINK_DO_DISCORD_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 <br/>
 
 ✨ *“Optimizing systems, automating processes, and building scalable solutions.”* ✨
