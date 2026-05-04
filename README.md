@@ -9,8 +9,8 @@ I'm a passionate student and IT Intern, full-stack developer, currently focusing
 - 💼 Working at the moment as an IT Intern at Atos, developing and sustaining corporate solutions with Microsoft Dynamics 365, C#/.NET, JavaScript, and SQL Server.
 - 🎯 Currently studying Linear Algebra and deepening my knowledge in **Backend Development (Java & Spring Boot)**, **System Design**, **AWS**, **DevOps**, **AI (Artificial Intelligence)** and **Cybersecurity**.
 - 🤝 Always open to collaborating on open-source projects and innovative tech solutions.
-- 🌎 Languages: Portuguese 🇧🇷 (Native), English 🇺🇸 (Advanced), and Spanish 🇦🇷 (Fluent).
 - 🎲 Fun facts: Always with my headphones on, I'm a huge music lover into pop, dance, techno, k-pop, reggaeton, dembow, trap, alt-rock... Coding a ton between hitting up concerts and festivals in my free time, I dream of traveling the world while working.
+- 🌎 Languages: Portuguese 🇧🇷 (Native), English 🇺🇸 (Advanced), and Spanish 🇦🇷 (Fluent).
 - ☁️ **AWS Certified Cloud Practitioner**
 
 <a href="(link do comprovante)" target="_blank">
